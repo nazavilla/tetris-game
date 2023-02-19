@@ -1,5 +1,5 @@
 # tetris-game
-A simple version of Tetris game made for educational purpose using vanilla JavaScript and semantic markup for HTML and CSS.
+A simple version of Tetris game made for educational purpose using Vanilla JavaScript and Semantic Markup for HTML and CSS.
 
 ## includes
 - Controls using keyCodes and Events:
